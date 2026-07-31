@@ -9,9 +9,6 @@
 </p>
 
 
-### Stats:
-
-<img width = "47%" height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=ahad4387&hide=other&hide_title=">
           
 
 
